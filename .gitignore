@@ -1,0 +1,11 @@
+*.log
+.env
+node_modules/
+
+*.tfstate
+*.tfstate.*
+
+.vscode/
+.idea/
+
+*.swp
